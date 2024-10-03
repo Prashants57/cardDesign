@@ -43,3 +43,21 @@ body{
 .card p{
     font-size: 13px;
 }
+
+.button{
+    height: 35px;
+    width: 250px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    background-color: #1E049D;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 14px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: #310DAB;
+    transition: all .3s linear;
+}
